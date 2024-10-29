@@ -3,6 +3,9 @@
 VisualStudioVersion = 17.0.31903.59
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "ExpensesTracker", "ExpensesTracker", "{1DCAA5B4-D299-4A75-AB20-ED60215CB129}"
+	ProjectSection(SolutionItems) = preProject
+		.gitignore = .gitignore
+	EndProjectSection
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExpensesTracker.API", "ExpensesTracker\ExpensesTracker.API\ExpensesTracker.API.csproj", "{FC6F2458-55FE-4142-AE9E-6FE05FA61BCE}"
 EndProject
